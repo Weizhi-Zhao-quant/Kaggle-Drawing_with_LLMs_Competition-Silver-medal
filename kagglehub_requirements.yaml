@@ -1,0 +1,26 @@
+format_version: 0.1.0
+datasources:
+- type: Package
+  ref: packagemanager/pm-82546229-at-05-22-2025-15-40-00/versions/1
+  version: 1
+- type: Package
+  ref: jiazhuang/svg-image-fidelity/versions/12
+  version: 12
+- type: Package
+  ref: packagemanager/pm-78722149-at-03-27-2025-14-04-14/versions/1
+  version: 1
+- type: Package
+  ref: metric/svg-constraints
+  version: 1
+- type: Model
+  ref: google/paligemma-2/transformers/paligemma2-10b-mix-448
+  version: 1
+- type: Model
+  ref: jiazhuang/sac-logos-ava1-l14-linearmse/Transformers/default/1
+  version: 1
+- type: Model
+  ref: jiazhuang/clip-vit-large-patch14/Transformers/default/1
+  version: 1
+- type: Dataset
+  ref: aphrodite874/sd3-5-large-turbo
+  version: 1
